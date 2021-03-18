@@ -63,7 +63,7 @@ App is targeted to people of any age:
 ## ScreenShots
 App Intro                  |Display Info               |User Basic Info
 :-------------------------:|:-------------------------:|:-------------------------:
-![Entry Steps](hhttps://github.com/Rakibul66/Quiz-App/blob/main/sc/1616078597725.png) | ![Dashboard1](https://github.com/Rakibul66/Quiz-App/blob/main/sc/1616078601387.png) | ![Dashboard2](https://github.com/Rakibul66/Quiz-App/blob/main/sc/1616078605285.png)
+![Entry Steps](https://github.com/Rakibul66/Quiz-App/blob/main/sc/1616078597725.png) | ![Dashboard1](https://github.com/Rakibul66/Quiz-App/blob/main/sc/1616078601387.png) | ![Dashboard2](https://github.com/Rakibul66/Quiz-App/blob/main/sc/1616078605285.png)
 
 Home Screen                |Dashboard4               |Dashboard3
 :-------------------------:|:-------------------------:|:-------------------------:
