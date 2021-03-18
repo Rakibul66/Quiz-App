@@ -17,7 +17,56 @@
 
 
 
-<img src="hhttps://github.com/Rakibul66/Quiz-App/blob/main/sc/1616078597725.png " width="267" height="580">  
-<img src="https://github.com/Rakibul66/Quiz-App/blob/main/sc/1616078601387.png" width="267" height="580">  
-<img src="https://github.com/Rakibul66/Quiz-App/blob/main/sc/1616078605285.png" width="267" height="580">  
+
+## Running the app
+  Open the project in Android Studio
+  
+    - Clone the project url
+    - open as Git and paste the Url
+    - or Download the project and import as existing project.
+
+## About the app
+
+Quiz application is made for practise an Android application which have firebase backend and navigation componant.And this app is orginally made by Tvac channel.
+
+App is targeted to people of any age:
+  
+    o Who wants to know navigation componant
+    o learn MVVM pattern design
+    
+  
+
+### Features:
+
+    - make quiz
+    - fill the quiz and get answer instantly
+    - Record of the database query
+    - Delete all queries
+
+### Application Uses:
+
+    Database                  : Firebase
+    Login and Authentication  : Annonymous login wth firebase.
+    Language                  : Java
+    Tools                     : Android Studio
+  
+
+### Functionalities app consists:
+
+    -Navigation Drawer
+    -Recycler View
+    -Viewpager
+    -Toolbars, Menus, Floating Action Buttons
+    -Content provider (Contacts Picker, SMS Manager)
+    
+
+## ScreenShots
+App Intro                  |Display Info               |User Basic Info
+:-------------------------:|:-------------------------:|:-------------------------:
+![Entry Steps](hhttps://github.com/Rakibul66/Quiz-App/blob/main/sc/1616078597725.png) | ![Dashboard1](https://github.com/Rakibul66/Quiz-App/blob/main/sc/1616078601387.png) | ![Dashboard2](https://github.com/Rakibul66/Quiz-App/blob/main/sc/1616078605285.png)
+
+Home Screen                |Dashboard4               |Dashboard3
+:-------------------------:|:-------------------------:|:-------------------------:
+![Dash3](https://github.com/Rakibul66/Quiz-App/blob/main/sc/1616078608822.png) | ![Quiz](https://github.com/Rakibul66/Quiz-App/blob/main/sc/1616078612597.png) | ![Record](https://github.com/Rakibul66/Quiz-App/blob/main/sc/1616078627467.png)
+
 
