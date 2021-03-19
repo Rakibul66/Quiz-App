@@ -25,6 +25,11 @@
     - open as Git and paste the Url
     - or Download the project and import as existing project.
 
+#Set Firebase 
+![collection](https://github.com/Rakibul66/Quiz-App/blob/main/QuizList%20collection.PNG)
+![rules](https://github.com/Rakibul66/Quiz-App/blob/main/rules.PNG)
+![questions](https://github.com/Rakibul66/Quiz-App/blob/main/Questions.PNG)
+
 ## About the app
 
 Quiz application is made for practise an Android application which have firebase backend and navigation componant.And this app is orginally made by Tvac channel.
